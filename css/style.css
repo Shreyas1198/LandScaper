@@ -439,6 +439,7 @@ section .title span{
     overflow: hidden;
     transition: all 0.3s ease;
     padding: 30px 0;
+    color: #fff;
 }
 .owl-dots{
     text-align: center;
